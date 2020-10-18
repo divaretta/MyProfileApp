@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_60dp">60dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="_13dp">13dp</dimen>
+    <dimen name="_280dp">280dp</dimen>
+    <dimen name="_260dp">260dp</dimen>
+    <dimen name="_184dp">184dp</dimen>
+</resources>

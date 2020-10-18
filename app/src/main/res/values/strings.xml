@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyProfileApp</string>
+    <string name="text_name">DIVARETTA KIESA SUMARTHA</string>
+    <string name="gallery">Gallery</string>
+    <string name="friends">Friends</string>
+    <string name="achievement">Achievement</string>
+    <string name="divaretta_kiesa_sumartha">Divaretta kiesa sumartha</string>
+    <string name="idn_akhwat">IDN AKHWAT</string>
+    <string name="txt_gallery">gallery</string>
+    <string name="txt_academy">academy</string>
+    <string name="txt_friends">FRIENDS</string>
+    <string name="txt_profile">Profile</string>
+    <string name="my_profile">\n
+        INTRODUCING ME!\n\n
+        My name is Divaretta Kiesa Sumartha,\n
+        or Diva for short!\n
+        I was born on November the 14th, 2001.\n
+        I'm going to turn nineteen this year. \n
+        I'm a firstborn child of three siblings.\n
+
+    </string>
+    <string name="welcome">Welcome to my profile!</string>
+    <string name="go">go!</string>
+</resources>
